@@ -1,2 +1,1 @@
-# core
-ThunderPHP Framework
+# ThunderPHP Framework
